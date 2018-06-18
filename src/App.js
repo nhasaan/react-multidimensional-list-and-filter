@@ -13,7 +13,7 @@ class App extends Component {
         </header>
         <Category />
         <p className="App-intro">
-          Copyright @Chaldal.com.
+          Copyright @tutspaer.com.
         </p>
       </div>
     );
